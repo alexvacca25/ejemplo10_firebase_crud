@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895317912152",
+    "project_id": "clientescrud-5712c",
+    "storage_bucket": "clientescrud-5712c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895317912152:android:ed2c0915d9a2af60c0382d",
+        "android_client_info": {
+          "package_name": "com.clientesalexvacca.crudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895317912152-pngf4hd7lrta2a01tl5dt1mp0f5819km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOfAZekzD1BW0u-Nr-bQjuNlkHhrNrrIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895317912152-pngf4hd7lrta2a01tl5dt1mp0f5819km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
